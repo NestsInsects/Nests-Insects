@@ -1,13 +1,14 @@
 Nests & Insects
 ===============
-
-This is the repository for the rulebooks and code of Nests & Insects, a Roguelike
+x:https://x.com/NestsInsects
+This is the repository for AI the rulebooks and code of Nests & Insects, a Roguelike
 Tabletop Roleplaying Game.
 
 Nests & Insects is lovingly crafted by hand in a text-based format with custom
 layout code and glorious ASCII.
 
-![Nests & Insects rulebooks in Glorious ASCII](./codez/themes/vim/vim_syntax_file/screenshot_pablo_terminal.png?raw=true)
+![image](https://github.com/user-attachments/assets/830de7fa-6b41-4721-8ce2-62ac044c0726)
+
 Figure 1: The Nests & Insects rulebooks in vim with syntax highlighting.
 
 Nests & Insects is still a work in progress, in the early stages of design and

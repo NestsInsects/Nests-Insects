@@ -1,6 +1,6 @@
 Nests & Insects
 ===============
-x:https://x.com/NestsInsects
+X:https://x.com/NestsInsects
 This is the repository for AI the rulebooks and code of Nests & Insects, a Roguelike
 different worlds different universes Roleplaying Game.
 

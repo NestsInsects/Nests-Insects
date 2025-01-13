@@ -1,0 +1,188 @@
+08/06/22
+========
+
+game/
+-----
+
+[DONE] Clarify rules for reducing Hunger when consuming a Food Item.
+
+
+30/05/22
+========
+
+game/
+-----
+
+[TODO] Improve rules for Confused Effect, currently redundant with Charmed.
+
+[TODO] Codify checking Effects during Combat (at start of Round).
+
+
+22/05/22
+========
+
+game/
+-----
+
+[DONE] Transfer Triggered Effects Section to Character Features Section. 
+
+
+21/05/22
+========
+
+game/
+-----
+
+[TODO] Codify how space and time work. In the game!
+
+
+19/05/22
+========
+
+game/
+-----
+
+[TODO] Clarify leaving a Room before a generated Event is resolved.
+
+[DONE] Clarify how Authothysis makes a tunnel entrance unpassable
+       * It creates an Obstacle. 
+
+[TODO] Codify how Nest Level ratings are determined.
+
+
+16/05/22
+========
+
+game/
+-----
+
+[DONE] Clarify what Quantification die to Roll to Set, Increase, or Decrease Features.
+
+[DONE] Clarify the order in which multiple Costs, Risks and Reward are generated.
+
+[NEVERMIND] Consider making all Items edible and typed only as "Meat" and "Plant".
+            > Nevermind because I don't like that.
+
+
+14/05/22
+========
+
+codez/
+------
+
+[DONE] Append "TBD" to names of sections that are To Be Done to warn the reader.
+
+
+
+13/05/22
+========
+
+[DONE] Write up rules for character death.
+
+12/05/22
+========
+
+game/
+-----
+
+[TODO] Combat rules must explain Damage, wounds, Hit and Miss variants.  
+
+codez/
+------
+
+[DONE] Number Chapter, Section etc. to facilitate searching rulebook.
+
+
+11/05/22
+========
+
+codez/
+------
+
+[NEVERMIND] For the love of goD make the vim syntax file sane.
+            * Because it will never be sane.
+
+[TODO] Add syntax highlighting file for Notepad++, other editors (?).
+
+
+07/05/22
+========
+
+game/
+-----
+
+[DONE] Flesh out Inventory Item rules (needed for Events rules).
+
+[NEVERMIND] Add section_tags to facilitate searching rulebook.
+            * Nevermind because numbered sections are a better option.
+
+[TODO] Write up behaviour cycles for Termites. 
+
+
+06/05/22
+========
+
+game/
+-----
+
+[DONE] Flesh out Events rules.
+       * Meaning the rules for specific Costs, Risks and Rewards, not the rules for
+         generating Events in Survival and Exploration.
+
+[NEVERMIND] Write up a brief description of Food Items.
+            * Nevermind because this is now rolled up into Food Item generation.
+
+[DONE] Write up Ants class description.
+
+[TODO] Write up Ladybug class description.
+
+[TODO] Write up rules for swarms.
+
+[TODO] Write up Termite Alates (King, Queen).
+
+[TODO] Flesh out Termites description (Nests, behaviour, etc). 
+
+[TODO] Write up supported Action rules ("Acting in tandem" Section).
+
+[TODO] Write up Character Chapter introduction section (clarify chargen).
+
+[TODO] Write up Hunting and Foraging minigame rules.
+
+[TODO] Write up Resting and Healing minigame rules.
+
+[TODO] Write up Character Features Chapter.
+
+[TODO] Complete Clients and Jobs Section in Setting Chapter.
+
+[TODO] Start up Ants Subsection in Enemies Section.
+
+[TODO] Start up Bees Subsection in Enemies Section.
+
+codez/
+------
+
+[DONE] Automate ToC generation.
+
+[DONE] Automate incrementing count of Tables, boxes, Figures.
+
+[DONE] Automate typesetting of Chapter, Section etc. headers.
+
+[DONE] Automatically insert charsheet template (as with class charsheets)
+
+[TODO] Automatically insert enemies' Features, Attacks, special rules.
+
+[TODO] Automatically insert and populate Tables.
+
+[TODO] Automatically insert Figures (including future illustrations).
+
+[TODO] Automatically insert and populate minigame formulae.
+
+[TODO] Simulate game to collect statistics (a.k.a. automate playtesting).
+
+[TODO] Do the text formatting in the code, rather than vim.
+
+[TODO] Implement hyphenation, enabling text justification.
+
+[TODO] Add vim tags for easier searches.
+
+[DONE] Add syntax highlighting file for vim.

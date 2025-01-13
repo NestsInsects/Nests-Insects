@@ -121,6 +121,6 @@ Reporting Errors
 The text-based rulebook is formatted with the code in the Prolog module
 `codez/src/layout.pl`. This, too, is a work in progress. If you find major formatting
 errors, or any errors, in the rulebook, please report it by emailing the game's author
-at `ep2216@ic.ac.uk`. You're welcome to send a pull request instead.
+at `(https://x.com/NestsInsects )`. You're welcome to send a pull request instead.
 
 

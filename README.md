@@ -1,4 +1,4 @@
-Nests & Insects
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/92a12faa-21f6-4e7d-a66a-82e728b39781" />Nests & Insects
 ===============
 X:https://x.com/NestsInsects
 This is the repository for AI the rulebooks and code of Nests & Insects, a Roguelike
@@ -17,6 +17,8 @@ the TODO file and `changelog.md`.
 
 The Game
 --------
+<img width="497" alt="image" src="https://github.com/user-attachments/assets/66240a62-9260-48d1-8e26-8630c5cc3c03" />
+
 
 Nests & Insects is a tabletop roleplaying game (TTRPG) for 2 to 7 players. One
 player assumes the role of the Game Queen and describes the game world to the

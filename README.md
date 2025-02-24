@@ -14,6 +14,8 @@ Figure 1: The Nests & Insects rulebooks in vim with syntax highlighting.
 Nests & Insects is still a work in progress, in the early stages of design and
 playtesting. To see how much is done and how much remains to be done, check out
 the TODO file and `changelog.md`.
+![image](https://github.com/user-attachments/assets/dccd52d6-1605-4aa3-99c6-7dbafaa708ef)
+
 ![image](https://github.com/user-attachments/assets/5fae5f64-24af-46ec-9123-4f6ae17306b9)
 
 The Game

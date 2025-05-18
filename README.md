@@ -3,6 +3,7 @@ Nests & Insects
 X:https://x.com/NestsInsects
 This is the repository for AI the rulebooks and code of Nests & Insects, a Roguelike
 different worlds different universes Roleplaying Game
+![image](https://github.com/user-attachments/assets/719f87eb-ec80-4e31-ad49-7b2b35767d09)
 
 Nests & Insects is loving ly crafted by hand in a text-based format with custom
 layout code and glorious ASCII.
